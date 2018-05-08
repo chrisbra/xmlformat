@@ -1,3 +1,8 @@
+# Unmaintained
+This plugin has been merged into [vim-xml-ftplugin](https://github.com/chrisbra/vim-xml-ftplugin)
+
+I suggest to use the xml ftplugin instead.
+
 # XMLFormat
 > A Vim plugin to pretty print xml
 
